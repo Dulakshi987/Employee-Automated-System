@@ -1,0 +1,13 @@
+
+HR Asistant Name: Pathmini
+Username: Path123
+Password: P0987
+------------
+HR Asistant Name: Sandali
+Username: Sandi123
+Password: A0987
+------------
+HR Asistant Name: Shanaka
+Username: Shan123
+Password: H0987
+------------

@@ -1,0 +1,17 @@
+
+HR Manager Name: Gimhan
+Username: Gim123
+Password: G0987
+------------
+HR Manager Name: Sadika
+Username: Sade123
+Password: S0987
+------------
+HR Manager Name: Sadamali
+Username: Sada123
+Password: M0987
+------------
+HR Manager Name: Lalith
+Username: Lali123
+Password: L0987
+------------
