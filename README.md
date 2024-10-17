@@ -1,0 +1,1 @@
+This repository included Employee management in the Company. There are admin can add to HR manager, HR Assistant and HR manager can add to employees with details, add designation and department, And more manager can search employees through their EPF number.This is Academic Project , and using *java* language.
